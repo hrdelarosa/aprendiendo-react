@@ -1,0 +1,48 @@
+body{
+  font-family: system-ui;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  color: white;
+  background-color: rgb(192, 227, 255);
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 11px;
+}
+.content-color{
+  display: flex;
+  width: 250px;
+  cursor: pointer;
+}
+.color{
+  font-weight: 600;
+  padding: 7px 12px;
+  cursor: pointer;
+  mix-blend-mode: hard-light;
+}
+
+.buttons{
+  background-color: #ffffff;
+  box-shadow: 0.5px 0.5px 15px 3px rgb(219, 219, 219);
+  font-size: 15px;
+  padding: 8px 20px;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+}
+.buttons:hover{
+  background-color: rgb(248, 248, 248);
+}
