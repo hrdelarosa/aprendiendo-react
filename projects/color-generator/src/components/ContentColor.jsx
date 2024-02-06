@@ -1,11 +1,9 @@
 import { Colors } from "./Colors"
 
-export function ContentColor({children, colors}){
+export function ContentColor({colors}){
     return (  
-    <div className='colors-list'>
-        <Colors color={colors}>
-            {children}
-        </Colors>
-    </div>
+        <div className='colors-list'>
+            <Colors color={colors}/>
+        </div>
     )
 }

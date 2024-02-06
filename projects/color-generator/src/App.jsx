@@ -1,29 +1,39 @@
 import './App.css'
 import { useState, useEffect } from 'react'
 import { ContentColor } from './components/ContentColor'
-import { generateColor, copyColor } from './logic/generateColor'
+import { generateColor, generateColorPallete } from './logic/generateColor'
+import { ColorPalette } from './components/ColorPalette'
 
 function App() {
-  const [colorFon, setColor] = useState('#c0e3ff')
+  const [colorFon, setColor] = useState(generateColor)
+  const [showColPal, setColPal] = useState(false)
+  const [paletteColor, setPaletteColor] = useState(generateColorPallete())
+
+  const changeComponent = () => {
+    setColPal(!showColPal)
+  }
 
   const clickColor = () => {
-    setColor(generateColor)
-  } 
+    showColPal ? setPaletteColor(generateColorPallete) : setColor(generateColor)
+  }
 
   useEffect(() => {
-    document.body.style.backgroundColor = colorFon
+    showColPal ? document.body.style.backgroundColor = paletteColor[0] : document.body.style.backgroundColor = colorFon
 
     return () => {
-      document.body.style.backgroundColor = colorFon
+      showColPal ? document.body.style.backgroundColor = paletteColor[0] : document.body.style.backgroundColor = colorFon
     }
-  }, [colorFon])
+  }, [colorFon, showColPal, paletteColor])
 
   return (
     <main className='content'>  
-      <ContentColor colors={colorFon}>{colorFon}</ContentColor>
+      {showColPal ? <ColorPalette colors={paletteColor}/> : <ContentColor colors={colorFon}/>}
       <div className='but-content'> 
         <button onClick={clickColor} className='buttons'>
-            Generate
+          Generate
+        </button>
+        <button onClick={changeComponent} className='buttons'>
+          {showColPal ? 'Color' : 'Palette'}
         </button>
       </div>
     </main>
