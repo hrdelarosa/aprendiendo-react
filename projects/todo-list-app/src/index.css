@@ -1,0 +1,136 @@
+body{
+  font-family: system-ui;
+  background-color: #171a1e;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content-todo-list{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  border-radius: 10px;
+  height: 370px;
+  width: 340px;
+  padding: 15px;
+  background-color: #ffffff;
+}
+
+header{
+  margin: 5px 10px;
+}
+.title{
+  text-align: left;
+}
+
+.content-add-task{
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  place-content: center;
+  justify-content: space-between;
+  margin: 5px 10px;
+}
+.add-task{
+  height: 35px;
+  width: 240px;
+  background-color: #edeef0;
+  padding: 4px 8px;
+  border-radius: 8px;
+  border: 0;
+  font-size: 16px;
+}
+.add-task:focus-visible{
+  outline: none;
+  background-color: #e5e6e7;
+}
+.add-task:hover{
+  background-color: #e5e6e7;
+}
+.btn-add-task{
+  background-color: #6ec0ff;
+  border-radius: 7px;
+  height: 35px;
+  padding: 4px 10px;
+  cursor: pointer;
+  border: 0;
+  font-size: 16px;
+}
+.btn-add-task:hover{
+  background-color: #5ab8ff;
+}
+
+.list-task{
+  margin: 10px 10px;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: space-between; */
+}
+
+.task-name{
+  margin-left: 10px;
+}
+
+.btn-delete{
+  background-color: transparent;
+  border: none;
+  font-size: 1.9rem;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+
+.check-cust input {
+  display: none;
+}
+.check-cust {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  font-size: 20px;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.checkmark {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 1.3em;
+  width: 1.3em;
+  background-color: #2196F300;
+  border-radius: 0.25em;
+  transition: all 0.25s;
+}
+.check-cust input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+.checkmark:after {
+  content: "";
+  position: absolute;
+  transform: rotate(0deg);
+  border: 0.1em solid black;
+  left: 0;
+  top: 0;
+  width: 1.05em;
+  height: 1.05em;
+  border-radius: 0.25em;
+  transition: all 0.25s, border-width 0.1s;
+}
+.check-cust input:checked ~ .checkmark:after {
+  left: 0.45em;
+  top: 0.25em;
+  width: 0.25em;
+  height: 0.5em;
+  border-color: #fff0 white white #fff0;
+  border-width: 0 0.15em 0.15em 0;
+  border-radius: 0em;
+  transform: rotate(45deg);
+}
+
