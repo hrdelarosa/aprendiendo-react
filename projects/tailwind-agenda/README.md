@@ -1,8 +1,39 @@
-# React + Vite
+# Tailwind Agenda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Una aplicación de agenda que utiliza Tailwind CSS para el diseño.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
+- React
+- Vite
+- Tailwind CSS
+- Node.js (para la API)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Estructura de carpetas
+```
+api/
+  api.http
+  app.js
+  package.json
+  database/
+    db.js
+public/
+  vite.svg
+scriptsDB/
+  sql-script.sql
+src/
+  App.jsx
+  index.css
+  main.jsx
+  assets/
+    react.svg
+  components/
+    Data.jsx
+    Datos.jsx
+    Foto.jsx
+    Links.jsx
+    Person.jsx
+    Persona.jsx
+  logic/
+    agendados.js
+```
