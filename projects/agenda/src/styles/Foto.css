@@ -1,0 +1,11 @@
+img {
+    max-width: 140px;
+    width: auto;
+    border-radius: 15px;
+}
+
+.imagen {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5px;
+}
