@@ -1,0 +1,437 @@
+{
+   "page":1,
+   "results":[
+      {
+         "backdrop_path":"/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+         "id":639720,
+         "original_title":"IF",
+         "overview":"A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+         "poster_path":"/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"IF",
+         "original_language":"en",
+         "genre_ids":[
+            35,
+            14,
+            10751
+         ],
+         "popularity":669.312,
+         "release_date":"2024-05-08",
+         "video":false,
+         "vote_average":7.275,
+         "vote_count":202
+      },
+      {
+         "backdrop_path":"/xtAQ7j9Yd0j4Rjbvx1hW0ENpXjf.jpg",
+         "id":94997,
+         "original_name":"House of the Dragon",
+         "overview":"The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+         "poster_path":"/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"House of the Dragon",
+         "original_language":"en",
+         "genre_ids":[
+            10765,
+            18,
+            10759
+         ],
+         "popularity":3979.362,
+         "first_air_date":"2022-08-21",
+         "vote_average":8.429,
+         "vote_count":4076,
+         "origin_country":[
+            "US"
+         ]
+      },
+      {
+         "backdrop_path":"/xg27NrXi7VXCGUr7MG75UqLl6Vg.jpg",
+         "id":1022789,
+         "original_title":"Inside Out 2",
+         "overview":"Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+         "poster_path":"/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Inside Out 2",
+         "original_language":"en",
+         "genre_ids":[
+            16,
+            10751,
+            18,
+            12,
+            35
+         ],
+         "popularity":8445.266,
+         "release_date":"2024-06-11",
+         "video":false,
+         "vote_average":7.911,
+         "vote_count":358
+      },
+      {
+         "backdrop_path":"/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+         "id":76479,
+         "original_name":"The Boys",
+         "overview":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+         "poster_path":"/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"The Boys",
+         "original_language":"en",
+         "genre_ids":[
+            10765,
+            10759
+         ],
+         "popularity":3650.921,
+         "first_air_date":"2019-07-25",
+         "vote_average":8.472,
+         "vote_count":9598,
+         "origin_country":[
+            "US"
+         ]
+      },
+      {
+         "backdrop_path":"/kwronSXO1ogMqHHFvY2eBxfFLdn.jpg",
+         "id":114479,
+         "original_name":"The Acolyte",
+         "overview":"An investigation into a shocking crime spree pits a respected Jedi Master against a dangerous warrior from his past. As more clues emerge, they travel down a dark path where sinister forces reveal all is not what it seems.",
+         "poster_path":"/mztdt3y6GBsJR69zHtszFezTCLT.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"The Acolyte",
+         "original_language":"en",
+         "genre_ids":[
+            9648,
+            10765
+         ],
+         "popularity":1122.392,
+         "first_air_date":"2024-06-04",
+         "vote_average":5.605,
+         "vote_count":167,
+         "origin_country":[
+            "US"
+         ]
+      },
+      {
+         "backdrop_path":"/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg",
+         "id":1026999,
+         "original_title":"Akademia Pana Kleksa",
+         "overview":"A seemingly ordinary girl finds her way into the eponymous Academy to explore the world of fairy tales, imagination and creativity. With the help of a crazy, talented teacher, she develops her unique abilities and also stumbles upon a clue that will help her unravel the biggest secret of the family...",
+         "poster_path":"/1bU3cnkS2ampZuV2Om4wzRpQRIt.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Kleks Academy",
+         "original_language":"pl",
+         "genre_ids":[
+            14,
+            12,
+            10751
+         ],
+         "popularity":39.931,
+         "release_date":"2024-01-05",
+         "video":false,
+         "vote_average":4.1,
+         "vote_count":17
+      },
+      {
+         "backdrop_path":"/5fWxvjOUvtUoSmiMEpFl77V6KZV.jpg",
+         "id":196322,
+         "original_name":"Dark Matter",
+         "overview":"Jason Dessen is abducted into an alternate version of his life. To get back to his true family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+         "poster_path":"/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"Dark Matter",
+         "original_language":"en",
+         "genre_ids":[
+            10765,
+            18
+         ],
+         "popularity":665.981,
+         "first_air_date":"2024-05-07",
+         "vote_average":7.949,
+         "vote_count":108,
+         "origin_country":[
+            "US"
+         ]
+      },
+      {
+         "backdrop_path":"/85aNuihDRCkx8GFwUd71HQ7nBUs.jpg",
+         "id":1163186,
+         "original_title":"We Grown Now",
+         "overview":"Best friends Malik and Eric discover the joys and hardships of growing up in the sprawling Cabrini-Green public housing complex in 1992 Chicago.",
+         "poster_path":"/fGYX0LCsL4hcirSChhHAevT09nT.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"We Grown Now",
+         "original_language":"en",
+         "genre_ids":[
+            18
+         ],
+         "popularity":13.768,
+         "release_date":"2024-04-19",
+         "video":false,
+         "vote_average":6.7,
+         "vote_count":3
+      },
+      {
+         "backdrop_path":"/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+         "id":974635,
+         "original_title":"Hit Man",
+         "overview":"A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+         "poster_path":"/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Hit Man",
+         "original_language":"en",
+         "genre_ids":[
+            10749,
+            35,
+            80
+         ],
+         "popularity":576.962,
+         "release_date":"2024-05-16",
+         "video":false,
+         "vote_average":7.077,
+         "vote_count":339
+      },
+      {
+         "backdrop_path":"/SI22DaQXIfDvLrNBHGpSVShrsC.jpg",
+         "id":829402,
+         "original_title":"Ultraman: Rising",
+         "overview":"With Tokyo under attack from kaiju, Ultraman discovers his greatest challenge isn’t fighting giant monsters - it’s raising one.",
+         "poster_path":"/j886YEkIUsiImY53px5VHKD4lRa.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Ultraman: Rising",
+         "original_language":"en",
+         "genre_ids":[
+            16,
+            878,
+            10751,
+            28
+         ],
+         "popularity":474.211,
+         "release_date":"2024-06-14",
+         "video":false,
+         "vote_average":8.825,
+         "vote_count":63
+      },
+      {
+         "backdrop_path":"/v5aFCLawM9oCygfGUzjJxRX4c6C.jpg",
+         "id":1930,
+         "original_title":"The Amazing Spider-Man",
+         "overview":"Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+         "poster_path":"/BgcvtsVWLQfjHD6Dr3YYgeSLYk.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"The Amazing Spider-Man",
+         "original_language":"en",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "popularity":103.207,
+         "release_date":"2012-06-23",
+         "video":false,
+         "vote_average":6.702,
+         "vote_count":16950
+      },
+      {
+         "backdrop_path":"/rNrG1E0NLoQnYudBmPGKfcY2RIM.jpg",
+         "id":156933,
+         "original_name":"Presumed Innocent",
+         "overview":"A horrific murder upends the Chicago Prosecuting Attorney's Office when one of its own is suspected of the crime—leaving the accused fighting to keep his family together.",
+         "poster_path":"/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"Presumed Innocent",
+         "original_language":"en",
+         "genre_ids":[
+            9648,
+            18,
+            80
+         ],
+         "popularity":732.953,
+         "first_air_date":"2024-06-11",
+         "vote_average":8.1,
+         "vote_count":44,
+         "origin_country":[
+            "US"
+         ]
+      },
+      {
+         "backdrop_path":"/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+         "id":150540,
+         "original_title":"Inside Out",
+         "overview":"From an adventurous balloon ride above the clouds to a monster-filled metropolis, Academy Award®-winning director Pete Docter (“Monsters, Inc.,” “Up”) has taken audiences to unique and imaginative places. In Disney and Pixar’s original movie “ Inside Out,” he will take us to the most extraordinary location of all—inside the mind.",
+         "poster_path":"/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Inside Out",
+         "original_language":"en",
+         "genre_ids":[
+            16,
+            10751,
+            12,
+            18,
+            35
+         ],
+         "popularity":2381.98,
+         "release_date":"2015-06-17",
+         "video":false,
+         "vote_average":7.9,
+         "vote_count":20665
+      },
+      {
+         "backdrop_path":"/gRApXuxWmO2forYTuTmcz5RaNUV.jpg",
+         "id":573435,
+         "original_title":"Bad Boys: Ride or Die",
+         "overview":"After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+         "poster_path":"/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Bad Boys: Ride or Die",
+         "original_language":"en",
+         "genre_ids":[
+            28,
+            80,
+            53,
+            35
+         ],
+         "popularity":2057.749,
+         "release_date":"2024-06-05",
+         "video":false,
+         "vote_average":7.142,
+         "vote_count":338
+      },
+      {
+         "backdrop_path":"/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+         "id":693134,
+         "original_title":"Dune: Part Two",
+         "overview":"Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+         "poster_path":"/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Dune: Part Two",
+         "original_language":"en",
+         "genre_ids":[
+            878,
+            12
+         ],
+         "popularity":684.022,
+         "release_date":"2024-02-27",
+         "video":false,
+         "vote_average":8.168,
+         "vote_count":4577
+      },
+      {
+         "backdrop_path":"/dYGJ9cI3pUjCUITfxxsO5kEGKTF.jpg",
+         "id":1279433,
+         "original_title":"Spadek",
+         "overview":"When their rich uncle passes, his mansion of intricate puzzles becomes the backdrop for his estranged family's quest to secure a portion of his wealth.",
+         "poster_path":"/A4UklDW0DYytzK5aydQIM3vw4dL.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Inheritance",
+         "original_language":"pl",
+         "genre_ids":[
+            35,
+            9648
+         ],
+         "popularity":37.31,
+         "release_date":"2024-06-19",
+         "video":false,
+         "vote_average":7.1,
+         "vote_count":4
+      },
+      {
+         "backdrop_path":"/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+         "id":786892,
+         "original_title":"Furiosa: A Mad Max Saga",
+         "overview":"As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+         "poster_path":"/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"Furiosa: A Mad Max Saga",
+         "original_language":"en",
+         "genre_ids":[
+            28,
+            12,
+            878
+         ],
+         "popularity":647.589,
+         "release_date":"2024-05-22",
+         "video":false,
+         "vote_average":7.619,
+         "vote_count":945
+      },
+      {
+         "backdrop_path":"/1pmLsPXz5k37BILPH1wq1OV2E7U.jpg",
+         "id":239770,
+         "original_name":"Doctor Who",
+         "overview":"The Doctor and his companion travel across time and space encountering incredible friends and foes.",
+         "poster_path":"/8FHthx4Vu81J4X5BTLhJYK9Gtbs.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"Doctor Who",
+         "original_language":"en",
+         "genre_ids":[
+            10759,
+            18,
+            10765
+         ],
+         "popularity":198.388,
+         "first_air_date":"2024-05-11",
+         "vote_average":6.442,
+         "vote_count":103,
+         "origin_country":[
+            "GB"
+         ]
+      },
+      {
+         "backdrop_path":"/sNBnCmF1ueoERa4uW5kh929KkRO.jpg",
+         "id":858017,
+         "original_title":"I Saw the TV Glow",
+         "overview":"Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.",
+         "poster_path":"/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+         "media_type":"movie",
+         "adult":false,
+         "title":"I Saw the TV Glow",
+         "original_language":"en",
+         "genre_ids":[
+            18,
+            27
+         ],
+         "popularity":178.718,
+         "release_date":"2024-05-03",
+         "video":false,
+         "vote_average":6.183,
+         "vote_count":60
+      },
+      {
+         "backdrop_path":"/n3pvWKWPXXiGSPscDmyvYWrVBpx.jpg",
+         "id":240114,
+         "original_name":"미스터리 수사단",
+         "overview":"Six \"agents of mystery\" with excellent chemistry probe into bizarre incidents that cannot be explained by science in creative and unique ways.",
+         "poster_path":"/vZW6pQ8fkJS04E64QSvATH8ag6J.jpg",
+         "media_type":"tv",
+         "adult":false,
+         "name":"Agents of Mystery",
+         "original_language":"ko",
+         "genre_ids":[
+            10764
+         ],
+         "popularity":80.399,
+         "first_air_date":"2024-06-18",
+         "vote_average":9,
+         "vote_count":1,
+         "origin_country":[
+            "KR"
+         ]
+      }
+   ],
+   "total_pages":1000,
+   "total_results":20000
+}
